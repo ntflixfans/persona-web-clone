@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Github } from 'lucide-react';
 
@@ -19,7 +18,7 @@ export const Header = () => {
             <span className="text-green-400 text-xs sm:text-sm">Available To Work</span>
           </div>
           <h1 className="text-xl sm:text-2xl font-bold text-white mb-1">『ＧｌｉｔｃｈＶｅｒｓｅ』</h1>
-          <p className="text-sm sm:text-base text-gray-300">I'm a Full Stack Developer</p>
+          <p className="text-sm sm:text-base text-gray-300">❤️Love From Heart❤️</p>
         </div>
       </div>
 
