@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Github } from 'lucide-react';
 
@@ -8,7 +7,7 @@ export const Header = () => {
       <div className="flex items-start gap-3 sm:gap-4 mb-4 sm:mb-6">
         <div className="w-12 h-12 sm:w-16 sm:h-16 rounded-xl overflow-hidden bg-gray-700 flex-shrink-0">
           <img 
-            src="/lovable-uploads/36ac2f76-d79c-4e0e-8f93-d56191abc0b6.png" 
+            src="/lovable-uploads/b35525c4-5ecf-4b14-8db1-6f53ded978af.png" 
             alt="Profile"
             className="w-full h-full object-cover"
           />
